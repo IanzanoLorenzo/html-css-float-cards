@@ -7,3 +7,18 @@
 body{
     font-family: 'Fredoka', sans-serif;
 }
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+/* header */
+
+header{
+    text-align: center;
+}
+
+h1{
+    margin: 5vh 0;
+}
